@@ -389,8 +389,8 @@ def run_dictionary_app():
     history_button.pack(side=tk.LEFT, padx=10)
 
     # Footer Label
-    footer_label = ttk.Label(window, text="© 2023 Nicholas Wade's Dictionary & Thesaurus Application", font=("Arial", 10))
-    footer_label.pack(pady=10)
+    # footer_label = ttk.Label(window, text="© 2023 Nicholas Wade's Dictionary & Thesaurus Application", font=("Arial", 10))
+    # footer_label.pack(pady=10)
 
     # Create buttons for synonyms and antonyms
     synonyms_button = ttk.Button(
